@@ -1,0 +1,2 @@
+# Freescript
+Just enjoy.
